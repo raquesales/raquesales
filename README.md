@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML | CSS | JavaScript 
 
 
-<br><BR>
+<br>
 
 **Applications and Data**
 
